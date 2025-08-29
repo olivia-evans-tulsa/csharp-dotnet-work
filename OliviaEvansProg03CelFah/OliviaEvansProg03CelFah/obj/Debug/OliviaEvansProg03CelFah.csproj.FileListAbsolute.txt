@@ -1,0 +1,10 @@
+C:\Users\olivi\source\repos\OliviaEvansProg03CelFah\OliviaEvansProg03CelFah\bin\Debug\OliviaEvansProg03CelFah.exe.config
+C:\Users\olivi\source\repos\OliviaEvansProg03CelFah\OliviaEvansProg03CelFah\bin\Debug\OliviaEvansProg03CelFah.exe
+C:\Users\olivi\source\repos\OliviaEvansProg03CelFah\OliviaEvansProg03CelFah\bin\Debug\OliviaEvansProg03CelFah.pdb
+C:\Users\olivi\source\repos\OliviaEvansProg03CelFah\OliviaEvansProg03CelFah\obj\Debug\OliviaEvansProg03CelFah.csproj.AssemblyReference.cache
+C:\Users\olivi\source\repos\OliviaEvansProg03CelFah\OliviaEvansProg03CelFah\obj\Debug\OliviaEvansProg03CelFah.Form1.resources
+C:\Users\olivi\source\repos\OliviaEvansProg03CelFah\OliviaEvansProg03CelFah\obj\Debug\OliviaEvansProg03CelFah.Properties.Resources.resources
+C:\Users\olivi\source\repos\OliviaEvansProg03CelFah\OliviaEvansProg03CelFah\obj\Debug\OliviaEvansProg03CelFah.csproj.GenerateResource.cache
+C:\Users\olivi\source\repos\OliviaEvansProg03CelFah\OliviaEvansProg03CelFah\obj\Debug\OliviaEvansProg03CelFah.csproj.CoreCompileInputs.cache
+C:\Users\olivi\source\repos\OliviaEvansProg03CelFah\OliviaEvansProg03CelFah\obj\Debug\OliviaEvansProg03CelFah.exe
+C:\Users\olivi\source\repos\OliviaEvansProg03CelFah\OliviaEvansProg03CelFah\obj\Debug\OliviaEvansProg03CelFah.pdb
