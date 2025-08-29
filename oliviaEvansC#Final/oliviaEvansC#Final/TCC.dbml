@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="TCC2023" Class="TCCDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\TCC2023.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="oliviaEvansC_Final.Properties.Settings" SettingsPropertyName="TCC2023ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Offenses" Member="Offenses">
+    <Type Name="Offense">
+      <Column Name="OffenseType" Type="System.String" DbType="NVarChar(50) NOT NULL" IsReadOnly="true" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Metro" Member="Metros">
+    <Type Name="Metro">
+      <Column Name="[2021]" Member="_2021" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[2022]" Member="_2022" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[2023]" Member="_2023" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Northeast" Member="Northeasts">
+    <Type Name="Northeast">
+      <Column Name="[2021]" Member="_2021" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[2022]" Member="_2022" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[2023]" Member="_2023" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Southeast" Member="Southeasts">
+    <Type Name="Southeast">
+      <Column Name="[2021]" Member="_2021" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[2022]" Member="_2022" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[2023]" Member="_2023" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.West" Member="Wests">
+    <Type Name="West">
+      <Column Name="[2021]" Member="_2021" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[2022]" Member="_2022" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[2023]" Member="_2023" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

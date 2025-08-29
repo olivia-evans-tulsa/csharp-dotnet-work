@@ -1,0 +1,47 @@
+Offenses (including attempts), Metro, Northeast, Southeast, West,
+-1, 21, 22, 23
+
+Aggravated Assault, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
+Arson, 0,0,1, 0,0,0, 0,0,0, 0,0,0,
+Burglary, 3,3,0, 1,0,3, 0,0,0, 0,0,0,
+
+*Drug Law Violation,
+Arrest, 0,2,1, 0,0,0, 0,1,0, 0,0,0,
+Referral, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
+*,
+
+Hate Crimes, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
+
+*Liquor Law Violation,
+Arrest, 0,1,0, 0,0,0, 0,0,0, 0,0,0,
+Referral, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
+*,
+
+Manslaughter by Negligence, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
+Motor Vehicle Theft, 0,1,0, 1,0,1, 3,0,0, 1,0,0,
+Murder/Non-Negligent Manslaughter, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
+Robbery, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
+
+*Sexual Offense,
+Rape, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
+Fondling, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
+Incest, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
+*,
+
+Statutory Rape, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
+
+*VAWA Offense,
+Dating Violence, 0,0,0, 0,0,0, 0,0,1, 0,0,0,
+Domestic Violence, 0,0,2, 0,0,0, 0,0,0, 0,0,0,
+Stalking, 1,0,1, 0,0,0, 1,1,0, 0,0,0,
+*,
+
+*Weapons Law Violation,
+Arrest, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
+Referral, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
+*
+
+Unfounded, -1,0, -1,0, -1,0, 2020,1, 
+
+
+
