@@ -1,0 +1,10 @@
+C:\Users\olivi\source\repos\OliviaEvansProg07WorldSeries\OliviaEvansProg07WorldSeries\bin\Debug\OliviaEvansProg07WorldSeries.exe.config
+C:\Users\olivi\source\repos\OliviaEvansProg07WorldSeries\OliviaEvansProg07WorldSeries\bin\Debug\OliviaEvansProg07WorldSeries.exe
+C:\Users\olivi\source\repos\OliviaEvansProg07WorldSeries\OliviaEvansProg07WorldSeries\bin\Debug\OliviaEvansProg07WorldSeries.pdb
+C:\Users\olivi\source\repos\OliviaEvansProg07WorldSeries\OliviaEvansProg07WorldSeries\obj\Debug\OliviaEvansProg07WorldSeries.csproj.AssemblyReference.cache
+C:\Users\olivi\source\repos\OliviaEvansProg07WorldSeries\OliviaEvansProg07WorldSeries\obj\Debug\OliviaEvansProg07WorldSeries.Form1.resources
+C:\Users\olivi\source\repos\OliviaEvansProg07WorldSeries\OliviaEvansProg07WorldSeries\obj\Debug\OliviaEvansProg07WorldSeries.Properties.Resources.resources
+C:\Users\olivi\source\repos\OliviaEvansProg07WorldSeries\OliviaEvansProg07WorldSeries\obj\Debug\OliviaEvansProg07WorldSeries.csproj.GenerateResource.cache
+C:\Users\olivi\source\repos\OliviaEvansProg07WorldSeries\OliviaEvansProg07WorldSeries\obj\Debug\OliviaEvansProg07WorldSeries.csproj.CoreCompileInputs.cache
+C:\Users\olivi\source\repos\OliviaEvansProg07WorldSeries\OliviaEvansProg07WorldSeries\obj\Debug\OliviaEvansProg07WorldSeries.exe
+C:\Users\olivi\source\repos\OliviaEvansProg07WorldSeries\OliviaEvansProg07WorldSeries\obj\Debug\OliviaEvansProg07WorldSeries.pdb

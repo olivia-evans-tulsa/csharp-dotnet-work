@@ -1,0 +1,10 @@
+C:\Users\olivi\source\repos\OliviaEvansProg08Sum\OliviaEvansProg08Sum\bin\Debug\OliviaEvansProg08Sum.exe.config
+C:\Users\olivi\source\repos\OliviaEvansProg08Sum\OliviaEvansProg08Sum\bin\Debug\OliviaEvansProg08Sum.exe
+C:\Users\olivi\source\repos\OliviaEvansProg08Sum\OliviaEvansProg08Sum\bin\Debug\OliviaEvansProg08Sum.pdb
+C:\Users\olivi\source\repos\OliviaEvansProg08Sum\OliviaEvansProg08Sum\obj\Debug\OliviaEvansProg08Sum.csproj.AssemblyReference.cache
+C:\Users\olivi\source\repos\OliviaEvansProg08Sum\OliviaEvansProg08Sum\obj\Debug\OliviaEvansProg08Sum.Form1.resources
+C:\Users\olivi\source\repos\OliviaEvansProg08Sum\OliviaEvansProg08Sum\obj\Debug\OliviaEvansProg08Sum.Properties.Resources.resources
+C:\Users\olivi\source\repos\OliviaEvansProg08Sum\OliviaEvansProg08Sum\obj\Debug\OliviaEvansProg08Sum.csproj.GenerateResource.cache
+C:\Users\olivi\source\repos\OliviaEvansProg08Sum\OliviaEvansProg08Sum\obj\Debug\OliviaEvansProg08Sum.csproj.CoreCompileInputs.cache
+C:\Users\olivi\source\repos\OliviaEvansProg08Sum\OliviaEvansProg08Sum\obj\Debug\OliviaEvansProg08Sum.exe
+C:\Users\olivi\source\repos\OliviaEvansProg08Sum\OliviaEvansProg08Sum\obj\Debug\OliviaEvansProg08Sum.pdb

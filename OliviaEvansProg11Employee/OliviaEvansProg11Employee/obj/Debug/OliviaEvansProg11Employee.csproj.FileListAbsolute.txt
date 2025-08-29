@@ -1,0 +1,10 @@
+C:\Users\olivi\source\repos\OliviaEvansProg11Employee\OliviaEvansProg11Employee\bin\Debug\OliviaEvansProg11Employee.exe.config
+C:\Users\olivi\source\repos\OliviaEvansProg11Employee\OliviaEvansProg11Employee\bin\Debug\OliviaEvansProg11Employee.exe
+C:\Users\olivi\source\repos\OliviaEvansProg11Employee\OliviaEvansProg11Employee\bin\Debug\OliviaEvansProg11Employee.pdb
+C:\Users\olivi\source\repos\OliviaEvansProg11Employee\OliviaEvansProg11Employee\obj\Debug\OliviaEvansProg11Employee.csproj.AssemblyReference.cache
+C:\Users\olivi\source\repos\OliviaEvansProg11Employee\OliviaEvansProg11Employee\obj\Debug\OliviaEvansProg11Employee.Form1.resources
+C:\Users\olivi\source\repos\OliviaEvansProg11Employee\OliviaEvansProg11Employee\obj\Debug\OliviaEvansProg11Employee.Properties.Resources.resources
+C:\Users\olivi\source\repos\OliviaEvansProg11Employee\OliviaEvansProg11Employee\obj\Debug\OliviaEvansProg11Employee.csproj.GenerateResource.cache
+C:\Users\olivi\source\repos\OliviaEvansProg11Employee\OliviaEvansProg11Employee\obj\Debug\OliviaEvansProg11Employee.csproj.CoreCompileInputs.cache
+C:\Users\olivi\source\repos\OliviaEvansProg11Employee\OliviaEvansProg11Employee\obj\Debug\OliviaEvansProg11Employee.exe
+C:\Users\olivi\source\repos\OliviaEvansProg11Employee\OliviaEvansProg11Employee\obj\Debug\OliviaEvansProg11Employee.pdb
