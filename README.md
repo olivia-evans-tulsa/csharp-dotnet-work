@@ -1,1 +1,1 @@
-A collection of my C# work--all using .NET forms. All courtesy of my C# class at TCC. Just click on a directory, then the .sln to get started. (HIGHLY recommend my C# final, probably my best work in the class.)
+A collection of my C# work--all using .NET forms. All courtesy of my C# class at TCC. Just click on a directory, then the .sln to get started. (For more, especially more *impressive*, work, see my C# final project, published closer to the time of completion in 11/2024. It's in its own repository.)
